@@ -1,7 +1,8 @@
 # Lolohannsen
 <h2> Hi, I'm LoloHannsen! <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dDwicM3uFUqfC/giphy.gif" width="230">
-<p><em> I am Root
+<p><em> 01010011011110010111001101110100011001010110110100100000010000010111001001100011011010000110100101110100011001010110001101110100
+
 </em></p>
 
 
@@ -11,7 +12,7 @@
 ```javascript
 const CH  = {
   pronouns: "Ya..,
-  code: [Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Typescript, HTML, CSS, Ruby, Python, Java, PowerShell],
   tools: [Kali, Redux, Node, VS Code , Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -19,6 +20,6 @@ const CH  = {
                         speaker: "EN,DE",
                         mentor: "Kali Linux"
                       },
- challenge: "im a 50 year old Manager/Geek, Father of 3 Boy's with Autism, Python actully my real 😍 "
+ challenge: "im a 50 year old Manager/Geek, Father of 3 Boy's with Autism, Python my real 😍 "
 }
 ```
