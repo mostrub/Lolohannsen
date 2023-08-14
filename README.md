@@ -11,9 +11,9 @@
 
 ```javascript
 const CH  = {
-  pronouns: "Ya..,
+  pronouns: "..,
   code: [Typescript, HTML, CSS, Ruby, Python, Java, PowerShell],
-  tools: [Kali, Redux, Node, VS Code , Styled-Components, Jest, Docker],
+  tools: [Linux, Redux, Node, VS Code , Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "myHome",
