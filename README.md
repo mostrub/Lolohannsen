@@ -7,7 +7,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/Jot6TZSx1ZsE4QPXSS/giphy.gif" width="50"> sudo apt update ...  
+###  sudo apt update ...  
 
 ```javascript
 const CH  = {
