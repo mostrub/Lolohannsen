@@ -3,7 +3,7 @@
 const CH  = {
   pronouns: "Ya..,
   code: [Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [Kali, Redux, Node, VS Code , Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "myHome",
