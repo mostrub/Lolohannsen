@@ -1,6 +1,6 @@
 # Lolohannsen
 <h2> Hi, I'm LoloHannsen! <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dDwicM3uFUqfC/giphy.gif" width="230">
+
 <p><em> 01010011011110010111001101110100011001010110110100100000010000010111001001100011011010000110100101110100011001010110001101110100
 
 </em></p>
